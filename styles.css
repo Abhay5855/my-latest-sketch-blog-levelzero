@@ -11,4 +11,10 @@
 
 h1 {
     font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
