@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+
+
 .img2 img{
     width: 30%;
     float: left; 
     margin: 1.45%;
     padding-bottom: 30px;
   
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
 }
